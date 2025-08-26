@@ -1,16 +1,17 @@
 # 🧠 Topic Selection Ideas
 
 ## Criteria
-- Relevance to long-term goals
-- Cross-domain synthesis potential
-- Visual mapping compatibility
+- Strictly in the Software domain. 
 
-## Candidates
-- Infinite canvas versioning strategies
-- Hybrid cockpit workflows (Apple + open-source)
-- Timestamped recall in creative tools
+## Select any number of Problem Statements 
+- Make an implementation plan for each one of them, individually.
+- Identift the core teck stack requirements for the problem statements. 
+  
+
 
 ## Next Steps
 - Research feasibility
-- Draft visual board
 - Discuss in next sync
+
+## Next Sync
+- Look through all the available plans, and narrow down on a problem statement.

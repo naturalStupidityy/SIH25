@@ -5,7 +5,7 @@
 
 ## Select any number of Problem Statements 
 - Make an implementation plan for each one of them, individually.
-- Identift the core teck stack requirements for the problem statements. 
+- Identify the core teck stack requirements for the problem statements. 
   
 
 

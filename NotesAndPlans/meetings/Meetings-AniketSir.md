@@ -8,7 +8,7 @@
   -Problem: Semantic mismatch NAMASTE ↔ ICD-11 TM2 in EMRs  
   - Solution: API mapping NAMASTE → ICD-11 TM2 → FHIR R4 JSON  
   - Research: NAMASTE Portal, ICD-11 Browser, EHR Standards 2016, NRCeS, WHO guide, research papers  
-  - Data: Partial CSVs obtained 
+  - Data: Partial CSVs obtained
 
  # 3. Feedback from Sir
   -Explore centres that already use AYUSH-linked EMRs
